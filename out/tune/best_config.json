@@ -1,0 +1,29 @@
+{
+  "HrfaModel": {
+    "Appliances": {
+      "bt": 64,
+      "lr": 0.001,
+      "reg": 1e-05
+    },
+    "Digital_Music": {
+      "bt": 64,
+      "lr": 0.001,
+      "reg": 1e-05
+    },
+    "Luxury_Beauty": {
+      "bt": 64,
+      "lr": 0.001,
+      "reg": 1e-05
+    },
+    "Prime_Pantry": {
+      "bt": 64,
+      "lr": 0.001,
+      "reg": 1e-05
+    },
+    "Yelp": {
+      "bt": 64,
+      "lr": 0.0001,
+      "reg": 1e-07
+    }
+  }
+}

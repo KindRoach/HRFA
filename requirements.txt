@@ -1,0 +1,10 @@
+torch==1.7.1
+scikit-learn==0.21.3
+gensim==3.8.0
+pandas==1.1.0
+numpy==1.19.1
+tqdm==4.48.2
+scikit-surprise==1.1.1
+ray==1.1.0
+tinydb==4.1.1
+tensorbard==2.3.0
